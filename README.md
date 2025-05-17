@@ -1,4 +1,4 @@
-# CobBot
+![header](https://github.com/user-attachments/assets/9a365a29-c649-4a4f-b14b-031080a7d134)
 
 
 ### Tecnologias
