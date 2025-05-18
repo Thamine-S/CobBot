@@ -21,10 +21,21 @@ O CobBot emprega um backend robusto construído em Python com a API FastAPI, gar
 ### Como usar:
 
 1- Baixe os requisitos necessários
-2- Baixe os arquivos
-3- Rode o servidor Backend com: 
 
-4- Pronto!!! Agora você pode adicionar clientes e alterar isso o quanto for necessário.
+2- Baixe os arquivos
+
+3- Rode a interface no servidor local: 
+```
+```
+
+4- Rode o servidor [Backend]() com: 
+
+```
+```
+
+5- Pronto!!! Agora você pode adicionar clientes e alterar isso o quanto for necessário.
+
+6- Para enviar uma mensagem, certifique-se de que o navegador do seu computador está aberto, e o seu Whatsapp web está conectado no seu navegador. **O seu whatsapp precisa estar logado no whatsapp web para que o código funcione**
 
 ![divisor](https://github.com/user-attachments/assets/a1567f52-6875-4506-ada7-4ca9864a389f)
 ### Requisitos:
