@@ -1,6 +1,8 @@
 ![header](https://github.com/user-attachments/assets/9a365a29-c649-4a4f-b14b-031080a7d134)
 
-(Resumo)
+O CobBot emprega um backend robusto construído em Python com a API FastAPI, garantindo alta performance e facilidade de desenvolvimento de novas funcionalidades, enquanto a comunicação com os devedores é realizada via WhatsApp utilizando bibliotecas Python que eliminam custos adicionais de SMS; a inteligência artificial integrada é fundamental para a geração de mensagens de cobrança personalizadas e humanizadas, adaptando-se ao perfil de cada devedor para aumentar a eficácia da recuperação de crédito; a interface web intuitiva e responsiva, desenvolvida com HTML, CSS e JavaScript, interage com o backend através de requisições Fetch, proporcionando uma experiência de usuário moderna e simples, permitindo a customização completa das mensagens e o acompanhamento eficiente do processo de cobrança, resultando em maior agilidade e otimização dos resultados.
+
+
 ![divisor](https://github.com/user-attachments/assets/b0a0c1c3-e152-4941-be5a-ad5035e814b1)
 ### Tecnologias
 
